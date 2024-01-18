@@ -1,0 +1,11 @@
+
+body {
+    text-align: center;
+}
+#genshin {
+    opacity: 0;
+    transition: opacity 3s;
+}
+ul {
+    list-style-type: none;
+}
